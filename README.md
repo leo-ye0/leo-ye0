@@ -8,4 +8,4 @@ I'm Yutao Ye, an Applied Data Science graduate student at USC with a passion for
 - 🔧 **Languages:** Python, Java, R, SQL
 - 🚀 **Currently:** Seeking full-time Data Scientist / Data Engineer opportunities.
 
-[cite_start]📫 **Connect with me:** [leoyeah1111@gmail.com](mailto:leoyeah1111@gmail.com) [cite: 2]
+]📫 **Connect with me:** [leoyeah1111@gmail.com](mailto:leoyeah1111@gmail.com)
