@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yutao Ye, an Applied Data Science graduate student at USC with a passion for building end-to-end ML solutions. My work focuses on scalable data pipelines, MLOps, and applying LLMs to solve real-world problems.
+I'm Yutao Ye, a Data Scientist with a passion for building end-to-end ML solutions. My work focuses on scalable data pipelines, MLOps, and applying LLMs to solve real-world problems.
 
 -  **Education:** MS in Applied Data Science @ USC, BS in Applied Mathematics @ UCSD
 -  **Cloud & Data:** AWS, GCP, Azure, Databricks, Spark, Airflow, Redshift, EMR, Kinesis
